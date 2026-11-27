@@ -1,7 +1,7 @@
 {
-  "version": "2.6.322",
-  "name": "WhatsEcho-2.6.322-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=1Dm7OiWvvdUjCviU2t5AC-sqMUUSPp7sw&confirm=t",
-  "page": "https://drive.google.com/file/d/1Dm7OiWvvdUjCviU2t5AC-sqMUUSPp7sw/view",
-  "notes": "返回主页一次即可。自动回复规则可增删并与规则库合并。跟进可打开。客户运营改成紧凑表，国家客户并入客户档案。AI 模块改为五个 Agent。"
+  "version": "2.6.323",
+  "name": "WhatsEcho-2.6.323-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1rValLbohwnqGuAtH-xzhncB3et-WyslN&confirm=t",
+  "page": "https://drive.google.com/file/d/1rValLbohwnqGuAtH-xzhncB3et-WyslN/view",
+  "notes": "首页规则匹配分布改为跟随自动回复里的引擎规则，增删后图表会变。"
 }
