@@ -1,7 +1,7 @@
 {
-  "version": "2.6.320",
-  "name": "WhatsEcho-2.6.320-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=1jq8ct9DDWPoYsbiiamGmJrR5fBXnxG4x&confirm=t",
-  "page": "https://drive.google.com/file/d/1jq8ct9DDWPoYsbiiamGmJrR5fBXnxG4x/view",
-  "notes": "语音改用 sherpa-onnx 离线中文，只保留已测试能读出声的朝文和小雅。"
+  "version": "2.6.321",
+  "name": "WhatsEcho-2.6.321-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=17kU9ImNaODNUqsoLB7qbwiD-PXQVOgTC&confirm=t",
+  "page": "https://drive.google.com/file/d/17kU9ImNaODNUqsoLB7qbwiD-PXQVOgTC/view",
+  "notes": "顶栏五个按钮并成一排，字号和颜色跟显示界面一致。"
 }
