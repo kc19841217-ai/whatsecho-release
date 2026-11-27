@@ -1,7 +1,7 @@
 {
-  "version": "2.6.321",
-  "name": "WhatsEcho-2.6.321-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=17kU9ImNaODNUqsoLB7qbwiD-PXQVOgTC&confirm=t",
-  "page": "https://drive.google.com/file/d/17kU9ImNaODNUqsoLB7qbwiD-PXQVOgTC/view",
-  "notes": "顶栏五个按钮并成一排，字号和颜色跟显示界面一致。"
+  "version": "2.6.322",
+  "name": "WhatsEcho-2.6.322-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1Dm7OiWvvdUjCviU2t5AC-sqMUUSPp7sw&confirm=t",
+  "page": "https://drive.google.com/file/d/1Dm7OiWvvdUjCviU2t5AC-sqMUUSPp7sw/view",
+  "notes": "返回主页一次即可。自动回复规则可增删并与规则库合并。跟进可打开。客户运营改成紧凑表，国家客户并入客户档案。AI 模块改为五个 Agent。"
 }
