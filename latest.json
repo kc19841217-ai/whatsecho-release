@@ -1,7 +1,7 @@
 {
-  "version": "2.6.316",
-  "name": "WhatsEcho-2.6.316-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=1MCCPdQVgTdKwV05CLeLdr9WVUuYd31uy&confirm=t",
-  "page": "https://drive.google.com/file/d/1MCCPdQVgTdKwV05CLeLdr9WVUuYd31uy/view",
-  "notes": "待 Jeff 和自动回复只在首页显示，字号和排版跟 WhatsApp 状态条一致。"
+  "version": "2.6.317",
+  "name": "WhatsEcho-2.6.317-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1JTK5NCOB8CDRDdtmnS_vhCHhkPUp8CYH&confirm=t",
+  "page": "https://drive.google.com/file/d/1JTK5NCOB8CDRDdtmnS_vhCHhkPUp8CYH/view",
+  "notes": "WhatsApp 页左上角可返回主页。待处理不再显示 Jeff。生肖图补全，试听可以读出来。"
 }
