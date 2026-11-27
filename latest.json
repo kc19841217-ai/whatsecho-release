@@ -1,7 +1,7 @@
 {
-  "version": "2.6.311",
-  "name": "WhatsEcho-2.6.311-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=1dz0dJQY6dBQft1mMglxaRsgDtarmNrjE&confirm=t",
-  "page": "https://drive.google.com/file/d/1dz0dJQY6dBQft1mMglxaRsgDtarmNrjE/view",
-  "notes": "桌宠显示在桌面上，有新消息会跳出来告诉你。"
+  "version": "2.6.312",
+  "name": "WhatsEcho-2.6.312-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1vtobHibz9iHcqhA0AwwPk2fu4N_Gu-cL&confirm=t",
+  "page": "https://drive.google.com/file/d/1vtobHibz9iHcqhA0AwwPk2fu4N_Gu-cL/view",
+  "notes": "桌宠可以自选提醒语音，也可以改大小和透明度。"
 }
