@@ -1,7 +1,7 @@
 {
-  "version": "2.6.319",
-  "name": "WhatsEcho-2.6.319-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=11kYDy2fZNnYiJ3l075pXbDoO5iEuZLva&confirm=t",
-  "page": "https://drive.google.com/file/d/11kYDy2fZNnYiJ3l075pXbDoO5iEuZLva/view",
-  "notes": "语音列表只保留实际能读出声音的，听不到的已删除。"
+  "version": "2.6.320",
+  "name": "WhatsEcho-2.6.320-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1jq8ct9DDWPoYsbiiamGmJrR5fBXnxG4x&confirm=t",
+  "page": "https://drive.google.com/file/d/1jq8ct9DDWPoYsbiiamGmJrR5fBXnxG4x/view",
+  "notes": "语音改用 sherpa-onnx 离线中文，只保留已测试能读出声的朝文和小雅。"
 }
