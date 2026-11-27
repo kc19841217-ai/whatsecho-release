@@ -1,7 +1,7 @@
 {
-  "version": "2.6.326",
+  "version": "2.6.327",
   "name": "WhatsEcho-update.exe",
-  "url": "https://drive.google.com/uc?export=download&id=1GxAMUFZwOMP4WhWSMzHyfw_BnoKUiZid&confirm=t",
-  "page": "https://drive.google.com/file/d/1GxAMUFZwOMP4WhWSMzHyfw_BnoKUiZid/view",
-  "notes": "升级时不再弹出安装包文件名，装完会自动打开。"
+  "url": "https://drive.google.com/uc?export=download&id=1a9NdgLLxxZ8B99nlvIbgV6_cILyKPZew&confirm=t",
+  "page": "https://drive.google.com/file/d/1a9NdgLLxxZ8B99nlvIbgV6_cILyKPZew/view",
+  "notes": "自动回复按你在规则里写的内容发。改过的问候、报价、售后不再被菜单或 AI 盖掉。关掉的场景规则不再暗中发出。"
 }
