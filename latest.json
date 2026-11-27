@@ -1,7 +1,7 @@
 {
-  "version": "2.6.325",
-  "name": "WhatsEcho-2.6.325-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=17A2C2sPfabtKKzlqx-kQaR6KSqYBlP5Z&confirm=t",
-  "page": "https://drive.google.com/file/d/17A2C2sPfabtKKzlqx-kQaR6KSqYBlP5Z/view",
-  "notes": "关闭后再打开，窗口会回到桌面上，不再静默退出。"
+  "version": "2.6.326",
+  "name": "WhatsEcho-update.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1GxAMUFZwOMP4WhWSMzHyfw_BnoKUiZid&confirm=t",
+  "page": "https://drive.google.com/file/d/1GxAMUFZwOMP4WhWSMzHyfw_BnoKUiZid/view",
+  "notes": "升级时不再弹出安装包文件名，装完会自动打开。"
 }
