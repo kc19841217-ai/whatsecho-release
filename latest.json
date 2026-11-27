@@ -1,7 +1,7 @@
 {
-  "version": "2.6.323",
-  "name": "WhatsEcho-2.6.323-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=1rValLbohwnqGuAtH-xzhncB3et-WyslN&confirm=t",
-  "page": "https://drive.google.com/file/d/1rValLbohwnqGuAtH-xzhncB3et-WyslN/view",
-  "notes": "首页规则匹配分布改为跟随自动回复里的引擎规则，增删后图表会变。"
+  "version": "2.6.324",
+  "name": "WhatsEcho-2.6.324-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=19JecicT_f3219y9F5kNfzZPixV9jCPIE&confirm=t",
+  "page": "https://drive.google.com/file/d/19JecicT_f3219y9F5kNfzZPixV9jCPIE/view",
+  "notes": "首页顶栏待处理、自动回复、WhatsApp 状态改成同一排，字号一致。"
 }
