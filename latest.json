@@ -1,7 +1,7 @@
 {
-  "version": "2.6.310",
-  "name": "WhatsEcho-2.6.310-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=16rp9xjWW5AnL5w8MzNaOXLWsPHNAHxrQ&confirm=t",
-  "page": "https://drive.google.com/file/d/16rp9xjWW5AnL5w8MzNaOXLWsPHNAHxrQ/view",
-  "notes": "右上角状态文字统一为 14 像素。"
+  "version": "2.6.311",
+  "name": "WhatsEcho-2.6.311-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1dz0dJQY6dBQft1mMglxaRsgDtarmNrjE&confirm=t",
+  "page": "https://drive.google.com/file/d/1dz0dJQY6dBQft1mMglxaRsgDtarmNrjE/view",
+  "notes": "桌宠显示在桌面上，有新消息会跳出来告诉你。"
 }
