@@ -1,7 +1,7 @@
 {
-  "version": "2.6.324",
-  "name": "WhatsEcho-2.6.324-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=19JecicT_f3219y9F5kNfzZPixV9jCPIE&confirm=t",
-  "page": "https://drive.google.com/file/d/19JecicT_f3219y9F5kNfzZPixV9jCPIE/view",
-  "notes": "首页顶栏待处理、自动回复、WhatsApp 状态改成同一排，字号一致。"
+  "version": "2.6.325",
+  "name": "WhatsEcho-2.6.325-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=17A2C2sPfabtKKzlqx-kQaR6KSqYBlP5Z&confirm=t",
+  "page": "https://drive.google.com/file/d/17A2C2sPfabtKKzlqx-kQaR6KSqYBlP5Z/view",
+  "notes": "关闭后再打开，窗口会回到桌面上，不再静默退出。"
 }
