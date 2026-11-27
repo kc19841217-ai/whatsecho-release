@@ -1,7 +1,7 @@
 {
-  "version": "2.6.313",
-  "name": "WhatsEcho-2.6.313-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=1wPsAT4CwYAg-2EW-Lzid-q-yqUQCEov6&confirm=t",
-  "page": "https://drive.google.com/file/d/1wPsAT4CwYAg-2EW-Lzid-q-yqUQCEov6/view",
-  "notes": "卸载软件时会一起关闭并删除 adb。"
+  "version": "2.6.314",
+  "name": "WhatsEcho-2.6.314-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1ud4FaDoMc5FJVEKgsSPiv8SPiKgFmPyi&confirm=t",
+  "page": "https://drive.google.com/file/d/1ud4FaDoMc5FJVEKgsSPiv8SPiKgFmPyi/view",
+  "notes": "外观改成 Hermes 這一版：一般、主題、字體與縮放、視窗與佈局、聊天顯示、寵物。"
 }
