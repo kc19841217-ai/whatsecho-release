@@ -1,7 +1,7 @@
 {
-  "version": "2.6.312",
-  "name": "WhatsEcho-2.6.312-Electron45-Setup.exe",
-  "url": "https://drive.google.com/uc?export=download&id=1vtobHibz9iHcqhA0AwwPk2fu4N_Gu-cL&confirm=t",
-  "page": "https://drive.google.com/file/d/1vtobHibz9iHcqhA0AwwPk2fu4N_Gu-cL/view",
-  "notes": "桌宠可以自选提醒语音，也可以改大小和透明度。"
+  "version": "2.6.313",
+  "name": "WhatsEcho-2.6.313-Electron45-Setup.exe",
+  "url": "https://drive.google.com/uc?export=download&id=1wPsAT4CwYAg-2EW-Lzid-q-yqUQCEov6&confirm=t",
+  "page": "https://drive.google.com/file/d/1wPsAT4CwYAg-2EW-Lzid-q-yqUQCEov6/view",
+  "notes": "卸载软件时会一起关闭并删除 adb。"
 }
